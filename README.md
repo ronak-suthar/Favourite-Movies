@@ -1,5 +1,7 @@
 # Your Favourite Movies Application
 
+This is a React JS Based Movies Web Application. This app displays us the latest, trending and popular movies using TMDB API and gives us feature to add movie to favourites list.
+
 You can use this application by following the steps:
 
 ### `npm start`
